@@ -1,1 +1,3 @@
-print("hELLO ")
+print("texto ")
+texto = "mucho contexto"
+print(texto)
